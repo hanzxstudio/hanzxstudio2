@@ -1,0 +1,8 @@
+{
+  "name": "Verbatim Studio",
+  "description": "Long-form audio, video, and YouTube transcription workstation with chunked processing, speaker diarization, timestamps, and multi-format exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
